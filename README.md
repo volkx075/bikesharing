@@ -8,6 +8,7 @@ The majority of riders ride their bikes under 40 minutes.\
 Males ride more than other genders, but the majority still ride under 40 minutes. From the Gender Breakdown pie chart, we can see that the majority of Citibike users are male.\
 ![Trips by Weekday per Hour](Images/Trips_by_Weekday_per_Hour.PNG)\
 We can see from this heat map that most of the riders stop at 8 a.m., 5 p.m., and 6 p.m..\
+![Trips by Gender - Male](Images/Trips_by_Gender-Male.PNG)\
 ### Tableau Story
 ![Biksharing Story](https://public.tableau.com/views/Challenge14_16329379724140/BikesharingProposal?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Summary
